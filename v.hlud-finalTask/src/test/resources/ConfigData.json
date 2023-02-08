@@ -1,0 +1,7 @@
+{
+  "url": "http://localhost:8080/api/",
+  "urlWeb": "http://%s:%s@localhost:8080/web/",
+  "length_of_random_string": 10,
+  "logPath": "log/log.txt",
+  "jsonSchemaFile": "json_validate_schema.json"
+}

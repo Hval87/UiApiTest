@@ -1,0 +1,32 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Generated schema for Root",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "duration": {
+        "type": "string"
+      },
+      "method": {
+        "type": "string"
+      },
+      "name": {
+        "type": "string"
+      },
+      "startTime": {
+        "type": "string"
+      },
+      "endTime": {
+        "type": "string"
+      },
+      "status": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "method",
+      "name"
+    ]
+  }
+}
